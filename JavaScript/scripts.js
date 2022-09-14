@@ -26,7 +26,7 @@ function exampleOf() {
 
 > Example of Block Quote
 
-![Example of image](https://cdn.memes.com/up/38787851601040191/i/1605101584106.jpg)
+![Example of image](https://i.discogs.com/YMIeN0toYP9m6QMzmf6jn9yTvgnLMM97sx2vqtnc20A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQz/MDItMTQ2NDEyMzc3/My01NDI4LnBuZw.jpeg)
 
 **Example of Bold Text**
 `;
